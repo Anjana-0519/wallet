@@ -1,4 +1,4 @@
-My wallet is a web-based application designed to help users set, track, and achieve their financial goals while managing their bank balance effectively. The app provides an intuitive interface for goal creation, monitoring, and fund management, making financial planning easier.
+Goalify is a web-based application designed to help users set, track, and achieve their financial goals while managing their bank balance effectively. The app provides an intuitive interface for goal creation, monitoring, and fund management, making financial planning easier.
 
 
 ---
@@ -77,7 +77,7 @@ How to Run the Project
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/goalify.git
+git clone https://github.com/Anjana-0519/wallet/edit/main/README.md#L80C10-L80C54
 
 
 2. Navigate to the project directory:
@@ -178,7 +178,7 @@ Acknowledgments
 
 Special thanks to:
 
-[Your Name/Team Name] for development and design.
+[CUBEROOT] for development and design.
 
 Community contributors for feedback and suggestions.
 
